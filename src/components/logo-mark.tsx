@@ -33,7 +33,7 @@ export function LogoMark({ compact = false, className = "" }: LogoMarkProps) {
       {!compact ? (
         <span className="leading-tight">
           <span className="block text-xs font-semibold uppercase tracking-[0.2em] text-[#835d24]">
-            Frady's
+            Frady&apos;s
           </span>
           <span className="block text-base font-bold text-[#0f2b46] group-hover:text-[#1b4b75]">
             Flooring Service
